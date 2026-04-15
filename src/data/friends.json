@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "david.k@example.com",
+    "days_since_contact": 62,
+    "status": "almost due",
+    "tags": ["WORK"],
+    "bio": "Former colleague and a great mentor. Always gives solid career advice.",
+    "goal": 65,
+    "next_due_date": "2026-05-18"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "emma.wils@example.com",
+    "days_since_contact": 12,
+    "status": "on-track",
+    "tags": ["FAMILY"],
+    "bio": "Cousin from out of town. Loves hearing about the latest family drama.",
+    "goal": 30,
+    "next_due_date": "2026-05-03"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "lisanak@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["WORK"],
+    "bio": "Project manager from the old agency. Great for networking.",
+    "goal": 45,
+    "next_due_date": "2026-03-28"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "jwright@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Met during the hiking trip in Nepal. Planning the next big adventure.",
+    "goal": 30,
+    "next_due_date": "2026-03-15"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "sarah.c@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["COLLEGE", "CLOSE FRIEND"],
+    "bio": "University roommate. We share the same weird sense of humor.",
+    "goal": 14,
+    "next_due_date": "2026-04-24"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Johnson",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "mjohnson@example.com",
+    "days_since_contact": 45,
+    "status": "almost due",
+    "tags": ["GYM BUDDY"],
+    "bio": "Keeps me accountable for workouts. Needs a check-in soon.",
+    "goal": 50,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 7,
+    "name": "Michael Chen",
+    "picture": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "michael.tech@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["TECH", "GAMING"],
+    "bio": "Software engineer and weekend gaming buddy. Always up for a match.",
+    "goal": 14,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Patel",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "spatel99@example.com",
+    "days_since_contact": 85,
+    "status": "overdue",
+    "tags": ["HIGHSCHOOL"],
+    "bio": "Oldest friend from high school. Life got busy but we always catch up eventually.",
+    "goal": 60,
+    "next_due_date": "2026-02-15"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Roberts",
+    "picture": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "dan.roberts@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["NEIGHBOR", "BOOK CLUB"],
+    "bio": "Lives down the street. Always has the best recommendations for sci-fi books.",
+    "goal": 30,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Martinez",
+    "picture": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&h=150&fit=crop&crop=faces&q=80",
+    "email": "olivia.m@example.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["WORK", "MENTEE"],
+    "bio": "Junior designer I mentor. Very enthusiastic, talented, and eager to learn.",
+    "goal": 21,
+    "next_due_date": "2026-04-26"
+  }
+]
