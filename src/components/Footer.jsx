@@ -2,14 +2,18 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-[#1e3932] text-gray-300 py-12 mt-auto w-full border-t-4 border-blue-500">
+    <footer className="bg-[#1e3932] text-gray-300 py-12 mt-auto w-full">
     
       <div className="max-w-6xl mx-auto px-4 lg:px-8 flex flex-col items-center text-center w-full">
         
-        <h2 className="text-4xl font-bold text-white mb-3">
-          Keen<span className="text-gray-300 font-normal">Keeper</span>
-        </h2>
-        <p className="text-sm text-gray-400 mb-8 max-w-md">
+        <div className="flex flex-col items-center mb-4">
+            <img 
+                src="/images/logo-xl.png" 
+                alt="KeenKeeper Footer Logo" 
+                className="h-10 md:h-12 w-auto object-contain mb-2" 
+                />
+        </div>
+        <p className="text-sm text-gray-400 mb-8 w-full max-w-3xl px-2">
           Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
         </p>
 

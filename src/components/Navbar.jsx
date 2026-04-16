@@ -8,9 +8,12 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto px-4 lg:px-8 py-4 flex justify-between items-center w-full">
         
         {/* Logo Section */}
-        <Link to="/" className="text-2xl font-bold text-[#1e3932] flex items-center gap-1">
-          Keen<span className="text-gray-500 font-normal">Keeper</span>
-        </Link>
+        <Link to="/" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
+  <img 
+    src="/images/logo.png" 
+    alt="KeenKeeper Logo" 
+    className="h-8 md:h-10 w-auto object-contain" 
+  /></Link>
 
         {/* Links Section */}
         <div className="flex items-center space-x-2 md:space-x-6 text-sm font-semibold text-gray-500">
